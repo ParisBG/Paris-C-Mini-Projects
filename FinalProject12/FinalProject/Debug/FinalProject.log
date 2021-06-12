@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\itzp3\source\repos\For_Paris\FinalProject12\FinalProject\Source.cpp(19,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\itzp3\source\repos\For_Paris\FinalProject12\FinalProject\Source.cpp(44,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\itzp3\source\repos\For_Paris\FinalProject12\FinalProject\Header_H.h(97): warning C4715: 'MySearchTree::getWidth': not all control paths return a value
+  FinalProject.vcxproj -> C:\Users\itzp3\source\repos\For_Paris\FinalProject12\Debug\FinalProject.exe

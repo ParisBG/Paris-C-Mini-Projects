@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\itzp3\source\repos\Paris_Project10\Paris_Project10\Header_H.h(116,15): warning C4101: 'minElem': unreferenced local variable
+  Paris_Project10.vcxproj -> C:\Users\itzp3\source\repos\Paris_Project10\Debug\Paris_Project10.exe

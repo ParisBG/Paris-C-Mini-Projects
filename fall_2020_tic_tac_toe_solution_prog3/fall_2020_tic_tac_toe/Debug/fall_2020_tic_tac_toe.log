@@ -1,0 +1,18 @@
+﻿  Source.cpp
+C:\Users\itzp3\source\repos\For_Paris\fall_2020_tic_tac_toe_solution\fall_2020_tic_tac_toe\Source.cpp(122,35): warning C4474: 'sprintf_s' : too many arguments passed for format string
+C:\Users\itzp3\source\repos\For_Paris\fall_2020_tic_tac_toe_solution\fall_2020_tic_tac_toe\Source.cpp(122,35): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+C:\Users\itzp3\source\repos\For_Paris\fall_2020_tic_tac_toe_solution\fall_2020_tic_tac_toe\Source.cpp(138,23): warning C4305: '=': truncation from 'int' to 'char'
+C:\Users\itzp3\source\repos\For_Paris\fall_2020_tic_tac_toe_solution\fall_2020_tic_tac_toe\Source.cpp(138,18): warning C4309: '=': truncation of constant value
+C:\Users\itzp3\source\repos\For_Paris\fall_2020_tic_tac_toe_solution\fall_2020_tic_tac_toe\Source.cpp(141,23): warning C4305: '=': truncation from 'int' to 'char'
+C:\Users\itzp3\source\repos\For_Paris\fall_2020_tic_tac_toe_solution\fall_2020_tic_tac_toe\Source.cpp(141,18): warning C4309: '=': truncation of constant value
+C:\Users\itzp3\source\repos\For_Paris\fall_2020_tic_tac_toe_solution\fall_2020_tic_tac_toe\Source.cpp(144,23): warning C4305: '=': truncation from 'int' to 'char'
+C:\Users\itzp3\source\repos\For_Paris\fall_2020_tic_tac_toe_solution\fall_2020_tic_tac_toe\Source.cpp(144,18): warning C4309: '=': truncation of constant value
+C:\Users\itzp3\source\repos\For_Paris\fall_2020_tic_tac_toe_solution\fall_2020_tic_tac_toe\Source.cpp(149,20): warning C4305: '=': truncation from 'int' to 'char'
+C:\Users\itzp3\source\repos\For_Paris\fall_2020_tic_tac_toe_solution\fall_2020_tic_tac_toe\Source.cpp(149,16): warning C4309: '=': truncation of constant value
+C:\Users\itzp3\source\repos\For_Paris\fall_2020_tic_tac_toe_solution\fall_2020_tic_tac_toe\Source.cpp(157,22): warning C4305: '=': truncation from 'int' to 'char'
+C:\Users\itzp3\source\repos\For_Paris\fall_2020_tic_tac_toe_solution\fall_2020_tic_tac_toe\Source.cpp(157,16): warning C4309: '=': truncation of constant value
+C:\Users\itzp3\source\repos\For_Paris\fall_2020_tic_tac_toe_solution\fall_2020_tic_tac_toe\Source.cpp(163,21): warning C4305: '=': truncation from 'int' to 'char'
+C:\Users\itzp3\source\repos\For_Paris\fall_2020_tic_tac_toe_solution\fall_2020_tic_tac_toe\Source.cpp(163,16): warning C4309: '=': truncation of constant value
+C:\Users\itzp3\source\repos\For_Paris\fall_2020_tic_tac_toe_solution\fall_2020_tic_tac_toe\Source.cpp(164,21): warning C4305: '=': truncation from 'int' to 'char'
+C:\Users\itzp3\source\repos\For_Paris\fall_2020_tic_tac_toe_solution\fall_2020_tic_tac_toe\Source.cpp(164,16): warning C4309: '=': truncation of constant value
+  fall_2020_tic_tac_toe.vcxproj -> C:\Users\itzp3\source\repos\For_Paris\fall_2020_tic_tac_toe_solution\Debug\fall_2020_tic_tac_toe.exe

@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\itzp3\source\repos\fall_2020_project2_solution\fall_2020_project2\DrinkMachine_H.h(108,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\itzp3\source\repos\fall_2020_project2_solution\fall_2020_project2\DrinkMachine_H.h(144,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\itzp3\source\repos\fall_2020_project2_solution\fall_2020_project2\DrinkMachine_H.h(172,10): warning C4101: 'change': unreferenced local variable
+  fall_2020_project2.vcxproj -> C:\Users\itzp3\source\repos\fall_2020_project2_solution\Debug\fall_2020_project2.exe
